@@ -1,0 +1,61 @@
+.text-orange {
+    color: #FD7E14;
+}
+
+.bg-orange {
+    background-color: #FD7E14;
+}
+
+.bg-image {
+    background-image: url("../img/home-bg.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
+
+.p-0 {
+    padding: 0;
+}
+
+.pb-0 {
+    padding-bottom: 0;
+}
+
+.ps-6 {
+    padding-left: 256px;
+}
+
+.ps-7 {
+    padding-left: 512px;
+}
+
+.pt-6 {
+    padding-top: 128px;
+}
+
+.pb-6 {
+    padding-bottom: 128px;
+}
+
+.pt-7 {
+    padding-top: 256px;
+}
+
+.p-md-0 {
+    max-width: 720px;
+    padding: 0;
+}
+
+.p-sm-0 {
+    max-width: 540px;
+    padding: 0;
+}
+
+.h-5 {
+    height: 5px;
+}
